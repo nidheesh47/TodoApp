@@ -22,7 +22,7 @@ app.get("/", (req, res) => {
 
 app.use(
   cors({
-    origin: "https://todo-assi.vercel.app/",
+    origin: "https://todo-app-amber-six-40.vercel.app/",
     optionsSuccessStatus: 200,
   })
 );
