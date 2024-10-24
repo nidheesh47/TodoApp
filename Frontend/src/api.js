@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://todoassi-bdgu.onrender.com/api";
+const API_URL = "https://todoapp-9epc.onrender.com";
 
 const api = axios.create({
   baseURL: API_URL,
